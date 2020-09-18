@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+### Code อยู่ในไฟล์ 
+component > todoList
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
