@@ -21,7 +21,7 @@ npm run lint
 ```
 
 ### Code อยู่ในไฟล์ 
-component > todoList
+component > todoList.vue
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
